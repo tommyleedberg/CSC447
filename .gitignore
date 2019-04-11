@@ -1,0 +1,7 @@
+*.html
+*.xml
+*.ipch
+*.bin
+*.json
+worksheets/worksheet1/out/
+*.iml
